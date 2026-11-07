@@ -1,0 +1,2740 @@
+{
+  "source": "https://www.junyiacademy.org/topics/math-juni（均一版）",
+  "checkedAt": "2026-10-28",
+  "units": [
+    {
+      "id": "j-m7a-c01-1",
+      "grade": 7,
+      "chapter": "第一章 整數運算與科學記號",
+      "title": "1-1 數與數線",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c01-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c01",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【暖身】正數與負數",
+          "url": "https://www.junyiacademy.org/video/lJo3dp_C0Do?parent-topic-id=j-m7a-c01-1"
+        },
+        {
+          "title": "【觀念】用 ＋、－表示相反意義的量",
+          "url": "https://www.junyiacademy.org/video/KhKtFmVSTio?parent-topic-id=j-m7a-c01-1"
+        },
+        {
+          "title": "【觀念】正數和負數",
+          "url": "https://www.junyiacademy.org/video/RdJgf32gOAU?parent-topic-id=j-m7a-c01-1"
+        },
+        {
+          "title": "【素養動畫】【觀念】數的相關名詞介紹",
+          "url": "https://www.junyiacademy.org/video/pX7gEbHTrE0?parent-topic-id=j-m7a-c01-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】用正負符號表示相反的量",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-03-1-1a?parent-topic-id=j-m7a-c01-1"
+        },
+        {
+          "title": "【基礎】數的相關名詞",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-03-1-1b?parent-topic-id=j-m7a-c01-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c01-2",
+      "grade": 7,
+      "chapter": "第一章 整數運算與科學記號",
+      "title": "1-2 整數的加減運算",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c01-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c01",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【解題】整數的加法",
+          "url": "https://www.junyiacademy.org/video/a5FGAH0pFGQ?parent-topic-id=j-m7a-c01-2"
+        },
+        {
+          "title": "【觀念】正負相消的規則",
+          "url": "https://www.junyiacademy.org/video/TIj-OmZm86w?parent-topic-id=j-m7a-c01-2"
+        },
+        {
+          "title": "【素養動畫】【觀念】整數的加法 1：同號相加",
+          "url": "https://www.junyiacademy.org/video/gu28np8bHww?parent-topic-id=j-m7a-c01-2"
+        },
+        {
+          "title": "【觀念】同號數相加",
+          "url": "https://www.junyiacademy.org/video/3KFNAmX4QHw?parent-topic-id=j-m7a-c01-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】整數的加法：同號相加",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-03-3-1a?parent-topic-id=j-m7a-c01-2"
+        },
+        {
+          "title": "【基礎】整數的加法：異號相加",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-03-3-1b?parent-topic-id=j-m7a-c01-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c01-3",
+      "grade": 7,
+      "chapter": "第一章 整數運算與科學記號",
+      "title": "1-3 整數的乘除運算",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c01-3",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c01",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【解題】整數的乘法 1：異號相乘",
+          "url": "https://www.junyiacademy.org/video/DYV7BjRL8V0?parent-topic-id=j-m7a-c01-3"
+        },
+        {
+          "title": "【素養動畫】【解題】整數的乘法２：負負得正",
+          "url": "https://www.junyiacademy.org/video/PNm83v4fohA?parent-topic-id=j-m7a-c01-3"
+        },
+        {
+          "title": "【觀念】整數的乘法：以水位上升下降為例",
+          "url": "https://www.junyiacademy.org/video/OlvvKuXHMX8?parent-topic-id=j-m7a-c01-3"
+        },
+        {
+          "title": "【觀念】整數的乘法：以體重增減為例",
+          "url": "https://www.junyiacademy.org/video/mHYM8X-GyO8?parent-topic-id=j-m7a-c01-3"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】整數的乘法",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-03-3-4a?parent-topic-id=j-m7a-c01-3"
+        },
+        {
+          "title": "【基礎】含 1、－1 或 0 的乘法",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-03-3-4b?parent-topic-id=j-m7a-c01-3"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c01-4",
+      "grade": 7,
+      "chapter": "第一章 整數運算與科學記號",
+      "title": "1-4 指數與科學記號",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c01-4",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c01",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】乘方的意義與記法",
+          "url": "https://www.junyiacademy.org/video/fzHmSlan8Hw?parent-topic-id=j-m7a-c01-4"
+        },
+        {
+          "title": "【素養動畫】【解題】乘方的意義與基本計算",
+          "url": "https://www.junyiacademy.org/video/bpWQrPzAViw?parent-topic-id=j-m7a-c01-4"
+        },
+        {
+          "title": "【觀念】指數的意義",
+          "url": "https://www.junyiacademy.org/video/hzHt_lB8jwM?parent-topic-id=j-m7a-c01-4"
+        },
+        {
+          "title": "【素養動畫】【解題】含乘方的四則運算",
+          "url": "https://www.junyiacademy.org/video/G6ASChxqh-8?parent-topic-id=j-m7a-c01-4"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】以指數的形式簡記",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-06-1-1a?parent-topic-id=j-m7a-c01-4"
+        },
+        {
+          "title": "【基礎】指數為偶數的乘方計算",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-06-1-1b?parent-topic-id=j-m7a-c01-4"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c02-1",
+      "grade": 7,
+      "chapter": "第二章 因數分解與分數運算",
+      "title": "2-1 質因數分解",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c02-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c02",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】因數與倍數",
+          "url": "https://www.junyiacademy.org/video/f-i_OAMSCzc?parent-topic-id=j-m7a-c02-1"
+        },
+        {
+          "title": "【觀念】用整除找出因數",
+          "url": "https://www.junyiacademy.org/video/__enXkIgW7k?parent-topic-id=j-m7a-c02-1"
+        },
+        {
+          "title": "【素養動畫】【觀念】判別 5、2、4 的倍數",
+          "url": "https://www.junyiacademy.org/video/UtwDWdGfvbQ?parent-topic-id=j-m7a-c02-1"
+        },
+        {
+          "title": "【觀念】判別 2 的倍數",
+          "url": "https://www.junyiacademy.org/video/woaM-f_4xRY?parent-topic-id=j-m7a-c02-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】因數與倍數",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-02-1-1a?parent-topic-id=j-m7a-c02-1"
+        },
+        {
+          "title": "【基礎】因數的應用",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-02-1-1b?parent-topic-id=j-m7a-c02-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c02-2",
+      "grade": 7,
+      "chapter": "第二章 因數分解與分數運算",
+      "title": "2-2 公因數與公倍數",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c02-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c02",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】公因數與最大公因數",
+          "url": "https://www.junyiacademy.org/video/bCPjzlkNh9U?parent-topic-id=j-m7a-c02-2"
+        },
+        {
+          "title": "【觀念】公因數與最大公因數",
+          "url": "https://www.junyiacademy.org/video/Of9Q07F_RpQ?parent-topic-id=j-m7a-c02-2"
+        },
+        {
+          "title": "【素養動畫】【解題】用短除法求最大公因數",
+          "url": "https://www.junyiacademy.org/video/8xmkF8lwxLY?parent-topic-id=j-m7a-c02-2"
+        },
+        {
+          "title": "【觀念】利用短除法求最大公因數",
+          "url": "https://www.junyiacademy.org/video/ccbb6OyvDDU?parent-topic-id=j-m7a-c02-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】公因數與最大公因數",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-02-2-1a?parent-topic-id=j-m7a-c02-2"
+        },
+        {
+          "title": "【基礎】互質",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-02-2-2a?parent-topic-id=j-m7a-c02-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c02-3",
+      "grade": 7,
+      "chapter": "第二章 因數分解與分數運算",
+      "title": "2-3 分數的四則運算",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c02-3",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c02",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【觀念】負分數、等值分數、約分、最簡分數",
+          "url": "https://www.junyiacademy.org/video/Wio6Lnw5V-I?parent-topic-id=j-m7a-c02-3"
+        },
+        {
+          "title": "【素養動畫】【解題】分數的約分與擴分",
+          "url": "https://www.junyiacademy.org/video/j6JFBhQOMEQ?parent-topic-id=j-m7a-c02-3"
+        },
+        {
+          "title": "【素養動畫】【解題】分數的比較大小",
+          "url": "https://www.junyiacademy.org/video/Bqhv8kxjExQ?parent-topic-id=j-m7a-c02-3"
+        },
+        {
+          "title": "【觀念】真分數、假分數和負分數比大小",
+          "url": "https://www.junyiacademy.org/video/l2NHZA9xVmk?parent-topic-id=j-m7a-c02-3"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】-𝑎/𝑏 = 𝑎/-𝑏 = - 𝑎/𝑏（𝑏 ≠ 0）",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-03-3-6a?parent-topic-id=j-m7a-c02-3"
+        },
+        {
+          "title": "【基礎】最簡分數",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-02-2-10a?parent-topic-id=j-m7a-c02-3"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c02-4",
+      "grade": 7,
+      "chapter": "第二章 因數分解與分數運算",
+      "title": "2-4 指數律",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c02-4",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c02",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【解題】分數的乘方與比較大小",
+          "url": "https://www.junyiacademy.org/video/yi7Q2JRkBk8?parent-topic-id=j-m7a-c02-4"
+        },
+        {
+          "title": "【觀念】分數的乘方",
+          "url": "https://www.junyiacademy.org/video/qZeQ_B0tHgw?parent-topic-id=j-m7a-c02-4"
+        },
+        {
+          "title": "【觀念】分數或小數的乘方比較大小",
+          "url": "https://www.junyiacademy.org/video/4i0t9Pf8qBI?parent-topic-id=j-m7a-c02-4"
+        },
+        {
+          "title": "【素養動畫】【解題】指數律 1：同底指數相乘與相除",
+          "url": "https://www.junyiacademy.org/video/50HLgBEGGt8?parent-topic-id=j-m7a-c02-4"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】分數的乘方",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-06-1-1f?parent-topic-id=j-m7a-c02-4"
+        },
+        {
+          "title": "【基礎】數的乘方比較大小",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-06-1-2b?parent-topic-id=j-m7a-c02-4"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c03-1",
+      "grade": 7,
+      "chapter": "第三章 一元一次方程式",
+      "title": "3-1 以符號列式與運算",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c03-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c03",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】以符號列出代數式",
+          "url": "https://www.junyiacademy.org/video/yvwSkiQ1J_U?parent-topic-id=j-m7a-c03-1"
+        },
+        {
+          "title": "【觀念】以符號列代數式",
+          "url": "https://www.junyiacademy.org/video/vmRDyxW2Now?parent-topic-id=j-m7a-c03-1"
+        },
+        {
+          "title": "【觀念】什麼是代數式",
+          "url": "https://www.junyiacademy.org/video/KDKQ5Zo0J80?parent-topic-id=j-m7a-c03-1"
+        },
+        {
+          "title": "【素養動畫】【解題】代數式的值",
+          "url": "https://www.junyiacademy.org/video/e6ZhNCGSdVY?parent-topic-id=j-m7a-c03-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】認識代數式",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-01-1-1a?parent-topic-id=j-m7a-c03-1"
+        },
+        {
+          "title": "【基礎】代數式的簡記 1",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-01-1-1b?parent-topic-id=j-m7a-c03-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c03-2",
+      "grade": 7,
+      "chapter": "第三章 一元一次方程式",
+      "title": "3-2 一元一次方程式的列式與求解",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c03-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c03",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】一元一次方程式及其解的意義",
+          "url": "https://www.junyiacademy.org/video/FILM2ZJ-ScM?parent-topic-id=j-m7a-c03-2"
+        },
+        {
+          "title": "【觀念】一元一次方程式的意義",
+          "url": "https://www.junyiacademy.org/video/-HRUic8DqZI?parent-topic-id=j-m7a-c03-2"
+        },
+        {
+          "title": "【概念】一元一次方程式解的意義",
+          "url": "https://www.junyiacademy.org/video/Gtyw3iRoNFg?parent-topic-id=j-m7a-c03-2"
+        },
+        {
+          "title": "【解題】列出一元一次方程式 1",
+          "url": "https://www.junyiacademy.org/video/u9DzzmBJNcg?parent-topic-id=j-m7a-c03-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】將文字敘述列成一元一次方程式",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-02-2-1a?parent-topic-id=j-m7a-c03-2"
+        },
+        {
+          "title": "【基礎】將具體情境列成一元一次方程式",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-02-2-1b?parent-topic-id=j-m7a-c03-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c03-3",
+      "grade": 7,
+      "chapter": "第三章 一元一次方程式",
+      "title": "3-3 等量公理與移項法則",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c03-3",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c03",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】等量（加法、減法）公理",
+          "url": "https://www.junyiacademy.org/video/TQvX1s12ATc?parent-topic-id=j-m7a-c03-3"
+        },
+        {
+          "title": "【素養動畫】【觀念】等量（乘法、除法）公理",
+          "url": "https://www.junyiacademy.org/video/PUtvw6YSSPg?parent-topic-id=j-m7a-c03-3"
+        },
+        {
+          "title": "【觀念】等量公理",
+          "url": "https://www.junyiacademy.org/video/vzGGLiERUmg?parent-topic-id=j-m7a-c03-3"
+        },
+        {
+          "title": "【素養動畫】【解題】以等量公理解方程式",
+          "url": "https://www.junyiacademy.org/video/NtnU1ZT8qxc?parent-topic-id=j-m7a-c03-3"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】等式",
+          "url": "https://www.junyiacademy.org/exercise/merys6ba?parent-topic-id=j-m7a-c03-3"
+        },
+        {
+          "title": "【基礎】用等量公理解方程式：加法、減法",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-03-1-2a?parent-topic-id=j-m7a-c03-3"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c03-4",
+      "grade": 7,
+      "chapter": "第三章 一元一次方程式",
+      "title": "3-4 一元一次方程式的應用",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c03-4",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c03",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】應用問題與一元一次方程式",
+          "url": "https://www.junyiacademy.org/video/Lmcdx7_uQM0?parent-topic-id=j-m7a-c03-4"
+        },
+        {
+          "title": "【素養動畫】【解題】和差倍分問題",
+          "url": "https://www.junyiacademy.org/video/XeBIruH77DY?parent-topic-id=j-m7a-c03-4"
+        },
+        {
+          "title": "【素養動畫】【解題】生活消費問題",
+          "url": "https://www.junyiacademy.org/video/9PD8vpDHmcw?parent-topic-id=j-m7a-c03-4"
+        },
+        {
+          "title": "【素養動畫】【解題】分配問題",
+          "url": "https://www.junyiacademy.org/video/p4ivKtzsUr0?parent-topic-id=j-m7a-c03-4"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】應用問題 (1)",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-03-1-4a?parent-topic-id=j-m7a-c03-4"
+        },
+        {
+          "title": "【基礎】應用問題 (2)",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-03-1-4b?parent-topic-id=j-m7a-c03-4"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c05-1",
+      "grade": 7,
+      "chapter": "第四章 二元一次聯立方程式",
+      "title": "4-1 二元一次方程式",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c05-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c04",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】列出二元一次式及其值",
+          "url": "https://www.junyiacademy.org/video/Op6XtdyY4S0?parent-topic-id=j-m7a-c05-1"
+        },
+        {
+          "title": "【觀念】認識二元一次式",
+          "url": "https://www.junyiacademy.org/video/VmlLZcIw208?parent-topic-id=j-m7a-c05-1"
+        },
+        {
+          "title": "【觀念】列二元一次式 1",
+          "url": "https://www.junyiacademy.org/video/4fYt2Db-ywM?parent-topic-id=j-m7a-c05-1"
+        },
+        {
+          "title": "【觀念】列二元一次式 2",
+          "url": "https://www.junyiacademy.org/video/fUuUsmuMDOE?parent-topic-id=j-m7a-c05-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】依情境列出二元一次式",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-01-1-4a?parent-topic-id=j-m7a-c05-1"
+        },
+        {
+          "title": "【一般】依情境列出二元一次式",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-01-1-4b?parent-topic-id=j-m7a-c05-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c05-2",
+      "grade": 7,
+      "chapter": "第四章 二元一次聯立方程式",
+      "title": "4-2 解二元一次聯立方程式",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c05-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c04",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】二元一次聯立方程式及解的意義",
+          "url": "https://www.junyiacademy.org/video/jRx8ZH4PfH4?parent-topic-id=j-m7a-c05-2"
+        },
+        {
+          "title": "【觀念】二元一次聯立方程式的意義",
+          "url": "https://www.junyiacademy.org/video/8P09gpK1PX4?parent-topic-id=j-m7a-c05-2"
+        },
+        {
+          "title": "【觀念】二元一次聯立方程式的解",
+          "url": "https://www.junyiacademy.org/video/T2FptA8E6bE?parent-topic-id=j-m7a-c05-2"
+        },
+        {
+          "title": "【素養動畫】【觀念】代入消去法",
+          "url": "https://www.junyiacademy.org/video/IB32lfd1qzE?parent-topic-id=j-m7a-c05-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】二元一次聯立方程式及其解的判別",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-04-2-2a?parent-topic-id=j-m7a-c05-2"
+        },
+        {
+          "title": "【暖身】等量公理與移項法則",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-05-1-1a?parent-topic-id=j-m7a-c05-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c05-3",
+      "grade": 7,
+      "chapter": "第四章 二元一次聯立方程式",
+      "title": "4-3 應用問題",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c05-3",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c04",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【解題】數量問題、看錯問題",
+          "url": "https://www.junyiacademy.org/video/A3YSnbgcDN8?parent-topic-id=j-m7a-c05-3"
+        },
+        {
+          "title": "【素養動畫】【解題】分配問題、速率問題",
+          "url": "https://www.junyiacademy.org/video/5RFOe1-ONoU?parent-topic-id=j-m7a-c05-3"
+        },
+        {
+          "title": "【素養動畫】【觀念】合理性驗證",
+          "url": "https://www.junyiacademy.org/video/Clm2kr8UtCc?parent-topic-id=j-m7a-c05-3"
+        },
+        {
+          "title": "【觀念】解的合理性",
+          "url": "https://www.junyiacademy.org/video/_n9MiIFYvoY?parent-topic-id=j-m7a-c05-3"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】依題意列出二元一次聯立方程式 1",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-05-1-3a?parent-topic-id=j-m7a-c05-3"
+        },
+        {
+          "title": "【基礎】解二元一次聯立方程式的應用問題 1",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-05-1-3b?parent-topic-id=j-m7a-c05-3"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c06-1",
+      "grade": 7,
+      "chapter": "第五章 直角坐標與二元一次方程式的圖形",
+      "title": "5-1 直角坐標平面",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c06-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c05",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】坐標平面上的點",
+          "url": "https://www.junyiacademy.org/video/WIzX923i4ww?parent-topic-id=j-m7a-c06-1"
+        },
+        {
+          "title": "【觀念】認識直角坐標",
+          "url": "https://www.junyiacademy.org/video/mE0pI5WvK9w?parent-topic-id=j-m7a-c06-1"
+        },
+        {
+          "title": "【素養動畫】【觀念】找出點坐標",
+          "url": "https://www.junyiacademy.org/video/UMgYHdlKS5o?parent-topic-id=j-m7a-c06-1"
+        },
+        {
+          "title": "【觀念】找出點坐標",
+          "url": "https://www.junyiacademy.org/video/8rx18cnPO54?parent-topic-id=j-m7a-c06-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】認識直角坐標",
+          "url": "https://www.junyiacademy.org/exercise/jgc-7-01-2-1a?parent-topic-id=j-m7a-c06-1"
+        },
+        {
+          "title": "【基礎】找出點坐標 3",
+          "url": "https://www.junyiacademy.org/exercise/jgc-7-01-1-1a?parent-topic-id=j-m7a-c06-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c06-2",
+      "grade": 7,
+      "chapter": "第五章 直角坐標與二元一次方程式的圖形",
+      "title": "5-2 二元一次方程式的圖形",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c06-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c05",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【觀念】二元一次方程式的解和圖形的意義",
+          "url": "https://www.junyiacademy.org/video/IR5qmcr-q-4?parent-topic-id=j-m7a-c06-2"
+        },
+        {
+          "title": "【素養動畫】【觀念】二元一次方程式解的圖形： 𝑎𝑥+𝑏𝑦=𝑐",
+          "url": "https://www.junyiacademy.org/video/1ixaYpFl-Ww?parent-topic-id=j-m7a-c06-2"
+        },
+        {
+          "title": "【觀念】通過原點的斜直線 𝑎𝑥+𝑏𝑦=0",
+          "url": "https://www.junyiacademy.org/video/10dYdn28N9o?parent-topic-id=j-m7a-c06-2"
+        },
+        {
+          "title": "【觀念】不通過原點的斜直線 𝑎𝑥+𝑏𝑦=𝑐",
+          "url": "https://www.junyiacademy.org/video/zE8SDoz8irE?parent-topic-id=j-m7a-c06-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】二元一次方程式的圖形",
+          "url": "https://www.junyiacademy.org/exercise/n-m7bch1-4-1a?parent-topic-id=j-m7a-c06-2"
+        },
+        {
+          "title": "【基礎】二元一次方程式的圖形 2",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-06-1-1a?parent-topic-id=j-m7a-c06-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c07-1",
+      "grade": 7,
+      "chapter": "第六章 比例",
+      "title": "6-1 比例式",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c07-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c06",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】比與比值",
+          "url": "https://www.junyiacademy.org/video/IX7K0xkm4Vk?parent-topic-id=j-m7a-c07-1"
+        },
+        {
+          "title": "【觀念】比與比值",
+          "url": "https://www.junyiacademy.org/video/GN4A2HzdtJQ?parent-topic-id=j-m7a-c07-1"
+        },
+        {
+          "title": "【素養動畫】【觀念】相等的比",
+          "url": "https://www.junyiacademy.org/video/CgLdZpnr_h8?parent-topic-id=j-m7a-c07-1"
+        },
+        {
+          "title": "【觀念】相等的比",
+          "url": "https://www.junyiacademy.org/video/XOu4Z8jhH3Q?parent-topic-id=j-m7a-c07-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】認識比與比值 2",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-09-1-1a?parent-topic-id=j-m7a-c07-1"
+        },
+        {
+          "title": "【基礎】比的運算 2",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-09-1-1b?parent-topic-id=j-m7a-c07-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c07-2",
+      "grade": 7,
+      "chapter": "第六章 比例",
+      "title": "6-2 正比與反比",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c07-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c06",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】正比",
+          "url": "https://www.junyiacademy.org/video/HdyjeA_mQ9k?parent-topic-id=j-m7a-c07-2"
+        },
+        {
+          "title": "【觀念】正比的意義",
+          "url": "https://www.junyiacademy.org/video/EXQYzK3qNwE?parent-topic-id=j-m7a-c07-2"
+        },
+        {
+          "title": "【觀念】正比的關係式",
+          "url": "https://www.junyiacademy.org/video/Ejl6eEPX50E?parent-topic-id=j-m7a-c07-2"
+        },
+        {
+          "title": "【素養動畫】【觀念】正比的應用",
+          "url": "https://www.junyiacademy.org/video/9m2fmYHrtys?parent-topic-id=j-m7a-c07-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】正比的判斷 2",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-09-2-1a?parent-topic-id=j-m7a-c07-2"
+        },
+        {
+          "title": "【基礎】正比的計算 2",
+          "url": "https://www.junyiacademy.org/exercise/jnc-7-09-2-1b?parent-topic-id=j-m7a-c07-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c08-1",
+      "grade": 7,
+      "chapter": "第七章 一元一次不等式",
+      "title": "7-1 一元一次不等式的解及圖示",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c08-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c07",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】認識一元一次不等式",
+          "url": "https://www.junyiacademy.org/video/UQshsckuW_M?parent-topic-id=j-m7a-c08-1"
+        },
+        {
+          "title": "【觀念】認識大於等於和小於等於",
+          "url": "https://www.junyiacademy.org/video/PTjq3s5yG40?parent-topic-id=j-m7a-c08-1"
+        },
+        {
+          "title": "【觀念】不等式的意義",
+          "url": "https://www.junyiacademy.org/video/qyaDrNRfcmQ?parent-topic-id=j-m7a-c08-1"
+        },
+        {
+          "title": "【觀念】認識一元一次不等式",
+          "url": "https://www.junyiacademy.org/video/ru3S2QbUFaQ?parent-topic-id=j-m7a-c08-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】認識常見不等式關鍵字 2",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-07-1-1a?parent-topic-id=j-m7a-c08-1"
+        },
+        {
+          "title": "【基礎】將文字敘寫成不等式",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-07-1-2a?parent-topic-id=j-m7a-c08-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c08-2",
+      "grade": 7,
+      "chapter": "第七章 一元一次不等式",
+      "title": "7-2 解一元一次不等式及其應用",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c08-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c07",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】解一元一次不等式：不等式的加減運算性質",
+          "url": "https://www.junyiacademy.org/video/rjZByRagtwg?parent-topic-id=j-m7a-c08-2"
+        },
+        {
+          "title": "【素養動畫】【觀念】解一元一次不等式：不等式的乘除運算性質",
+          "url": "https://www.junyiacademy.org/video/1NOhflBJGr8?parent-topic-id=j-m7a-c08-2"
+        },
+        {
+          "title": "【觀念】不等式的加減運算性質",
+          "url": "https://www.junyiacademy.org/video/a-cb88eM5cM?parent-topic-id=j-m7a-c08-2"
+        },
+        {
+          "title": "【觀念】不等式的乘法運算性質",
+          "url": "https://www.junyiacademy.org/video/KmLDwEOWaso?parent-topic-id=j-m7a-c08-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】不等式的運算方法 2",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-08-1-1a?parent-topic-id=j-m7a-c08-2"
+        },
+        {
+          "title": "【基礎】解一元一次不等式 2",
+          "url": "https://www.junyiacademy.org/exercise/jac-7-08-1-2a?parent-topic-id=j-m7a-c08-2"
+        }
+      ]
+    },
+    {
+      "id": "temp_j-m7a-c09-1",
+      "grade": 7,
+      "chapter": "第八章 統計圖表與統計數據",
+      "title": "8-1 統計圖表",
+      "url": "https://www.junyiacademy.org/topics/temp_j-m7a-c09-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c08",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】圓形圖",
+          "url": "https://www.junyiacademy.org/video/aIaCnOhSFNY?parent-topic-id=temp_j-m7a-c09-1"
+        },
+        {
+          "title": "【素養動畫】【觀念】列聯表",
+          "url": "https://www.junyiacademy.org/video/ZolZ4aIELU8?parent-topic-id=temp_j-m7a-c09-1"
+        },
+        {
+          "title": "【觀念】認識列聯表",
+          "url": "https://www.junyiacademy.org/video/puQYVquGSJU?parent-topic-id=temp_j-m7a-c09-1"
+        },
+        {
+          "title": "【素養動畫】【觀念】次數分配表：直方圖、長條圖",
+          "url": "https://www.junyiacademy.org/video/VW9-pJKqums?parent-topic-id=temp_j-m7a-c09-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】統計圖表的呈現與判讀 2",
+          "url": "https://www.junyiacademy.org/exercise/jdc-7-01-1-1a?parent-topic-id=temp_j-m7a-c09-1"
+        },
+        {
+          "title": "【基礎】根據敘述製作列聯表、報讀列聯表",
+          "url": "https://www.junyiacademy.org/exercise/jdc-7-01-1-2a?parent-topic-id=temp_j-m7a-c09-1"
+        }
+      ]
+    },
+    {
+      "id": "temp_j-m7a-c09-2",
+      "grade": 7,
+      "chapter": "第八章 統計圖表與統計數據",
+      "title": "8-2 平均數、中位數與眾數",
+      "url": "https://www.junyiacademy.org/topics/temp_j-m7a-c09-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c08",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】平均數",
+          "url": "https://www.junyiacademy.org/video/wlIpsJcOnbc?parent-topic-id=temp_j-m7a-c09-2"
+        },
+        {
+          "title": "【觀念】平均數",
+          "url": "https://www.junyiacademy.org/video/REhzTg1piqY?parent-topic-id=temp_j-m7a-c09-2"
+        },
+        {
+          "title": "【素養動畫】【觀念】未分組資料求中位數",
+          "url": "https://www.junyiacademy.org/video/QRt_y-epgEw?parent-topic-id=temp_j-m7a-c09-2"
+        },
+        {
+          "title": "【素養動畫】【觀念】已分組資料求中位數",
+          "url": "https://www.junyiacademy.org/video/0oilASuK-wA?parent-topic-id=temp_j-m7a-c09-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】平均數 2",
+          "url": "https://www.junyiacademy.org/exercise/jdc-7-02-1-1a?parent-topic-id=temp_j-m7a-c09-2"
+        },
+        {
+          "title": "【基礎】中位數 2",
+          "url": "https://www.junyiacademy.org/exercise/jdc-7-02-2-1a?parent-topic-id=temp_j-m7a-c09-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c09-1",
+      "grade": 7,
+      "chapter": "第九章 簡單圖形與幾何符號",
+      "title": "9-1 簡單幾何圖形",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c09-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c09",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】幾何圖形初步引入",
+          "url": "https://www.junyiacademy.org/video/rRqPr3b9AVQ?parent-topic-id=j-m7a-c09-1"
+        },
+        {
+          "title": "【素養動畫】【觀念】簡單圖形及其符號",
+          "url": "https://www.junyiacademy.org/video/2ixW-Thfolw?parent-topic-id=j-m7a-c09-1"
+        },
+        {
+          "title": "【觀念】認識點與線",
+          "url": "https://www.junyiacademy.org/video/_y6NNxoFF1g?parent-topic-id=j-m7a-c09-1"
+        },
+        {
+          "title": "【觀念】認識線",
+          "url": "https://www.junyiacademy.org/video/QjVWMLKoQCU?parent-topic-id=j-m7a-c09-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】點、線、角",
+          "url": "https://www.junyiacademy.org/exercise/jsc-7-01-1-1a?parent-topic-id=j-m7a-c09-1"
+        },
+        {
+          "title": "【基礎】三角形",
+          "url": "https://www.junyiacademy.org/exercise/mjstx7ad?parent-topic-id=j-m7a-c09-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c09-2",
+      "grade": 7,
+      "chapter": "第九章 簡單圖形與幾何符號",
+      "title": "9-2 線對稱",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c09-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c09",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】線對稱圖形",
+          "url": "https://www.junyiacademy.org/video/gBIQHJMoZp4?parent-topic-id=j-m7a-c09-2"
+        },
+        {
+          "title": "【素養動畫】【解題】多邊形的線對稱",
+          "url": "https://www.junyiacademy.org/video/q99IU39O9tw?parent-topic-id=j-m7a-c09-2"
+        },
+        {
+          "title": "【觀念】特殊線對稱圖形",
+          "url": "https://www.junyiacademy.org/video/n70199nHuh4?parent-topic-id=j-m7a-c09-2"
+        },
+        {
+          "title": "【素養動畫】【解題】四邊形的對角線與對稱軸之關係",
+          "url": "https://www.junyiacademy.org/video/ricv7K3A0CY?parent-topic-id=j-m7a-c09-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】認識線對稱圖形",
+          "url": "https://www.junyiacademy.org/exercise/mjstx7ah?parent-topic-id=j-m7a-c09-2"
+        },
+        {
+          "title": "【基礎】線對稱圖形的性質",
+          "url": "https://www.junyiacademy.org/exercise/jsc-7-04-1-1a?parent-topic-id=j-m7a-c09-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m7a-c09-3",
+      "grade": 7,
+      "chapter": "第九章 簡單圖形與幾何符號",
+      "title": "9-3 三視圖",
+      "url": "https://www.junyiacademy.org/topics/j-m7a-c09-3",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m7a#topic-page-anchor-j-m7a-c09",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】視圖的介紹與簡單形體的三視圖",
+          "url": "https://www.junyiacademy.org/video/YMwHESONRNY?parent-topic-id=j-m7a-c09-3"
+        },
+        {
+          "title": "【概念6】視圖",
+          "url": "https://www.junyiacademy.org/video/7Gc8QF64Dkg?parent-topic-id=j-m7a-c09-3"
+        },
+        {
+          "title": "【素養動畫】【解題】立體模型的三視圖",
+          "url": "https://www.junyiacademy.org/video/2cdl9_wzZCk?parent-topic-id=j-m7a-c09-3"
+        },
+        {
+          "title": "【觀念】複合柱體的視圖",
+          "url": "https://www.junyiacademy.org/video/5adXS9v2ApI?parent-topic-id=j-m7a-c09-3"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】簡單形體的三視圖",
+          "url": "https://www.junyiacademy.org/exercise/jsc-7-02-1-1a?parent-topic-id=j-m7a-c09-3"
+        },
+        {
+          "title": "【基礎】立體模型的三視圖",
+          "url": "https://www.junyiacademy.org/exercise/jsc-7-02-1-1b?parent-topic-id=j-m7a-c09-3"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c01-1",
+      "grade": 8,
+      "chapter": "第一章 乘法公式與多項式",
+      "title": "1-1 乘法公式",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c01-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c01",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】(a+b)(c+d)=ac+ad+bc+bd",
+          "url": "https://www.junyiacademy.org/video/TR8gs8mWeHI?parent-topic-id=j-m8a-c01-1"
+        },
+        {
+          "title": "【概念1】分配律a(c+d)=ac+ad",
+          "url": "https://www.junyiacademy.org/video/SyaqTtfmb-8?parent-topic-id=j-m8a-c01-1"
+        },
+        {
+          "title": "【概念2】分配律(a+b)(c+d)=ac+ad+bc+bd",
+          "url": "https://www.junyiacademy.org/video/iFv_WhZgiCE?parent-topic-id=j-m8a-c01-1"
+        },
+        {
+          "title": "【素養動畫】【觀念】(a+b)^2=a^2+2ab+b^2",
+          "url": "https://www.junyiacademy.org/video/N497a46OoZ8?parent-topic-id=j-m8a-c01-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】透過長方形面積，了解乘法分配律",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-01-1-1a?parent-topic-id=j-m8a-c01-1"
+        },
+        {
+          "title": "【基礎】利用分配律求值",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-01-1-1b?parent-topic-id=j-m8a-c01-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c01-2",
+      "grade": 8,
+      "chapter": "第一章 乘法公式與多項式",
+      "title": "1-2 多項式",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c01-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c01",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】認識多項式",
+          "url": "https://www.junyiacademy.org/video/RUA0_haZ9-g?parent-topic-id=j-m8a-c01-2"
+        },
+        {
+          "title": "【概念2】多項式的項、係數、次數",
+          "url": "https://www.junyiacademy.org/video/LMPSJ4aHZ9o?parent-topic-id=j-m8a-c01-2"
+        },
+        {
+          "title": "【概念3】單項式和常數多項式",
+          "url": "https://www.junyiacademy.org/video/mqHNA3zup9M?parent-topic-id=j-m8a-c01-2"
+        },
+        {
+          "title": "【概念4】升冪排列與降冪排列",
+          "url": "https://www.junyiacademy.org/video/l4_9DcgfD2U?parent-topic-id=j-m8a-c01-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】認識多項式（1）",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-02-1-1a?parent-topic-id=j-m8a-c01-2"
+        },
+        {
+          "title": "【基礎】認識多項式（2）",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-02-1-1b?parent-topic-id=j-m8a-c01-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c01-3",
+      "grade": 8,
+      "chapter": "第一章 乘法公式與多項式",
+      "title": "1-3 多項式的四則運算",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c01-3",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c01",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】多項式的加法",
+          "url": "https://www.junyiacademy.org/video/YD13_0Dm1Aw?parent-topic-id=j-m8a-c01-3"
+        },
+        {
+          "title": "【素養動畫】【觀念】多項式的減法",
+          "url": "https://www.junyiacademy.org/video/xZyopBa7CLw?parent-topic-id=j-m8a-c01-3"
+        },
+        {
+          "title": "【素養動畫】【觀念】多項式的乘法",
+          "url": "https://www.junyiacademy.org/video/aCrvB5bvR5g?parent-topic-id=j-m8a-c01-3"
+        },
+        {
+          "title": "【概念1】單項式×單項式",
+          "url": "https://www.junyiacademy.org/video/_S19Dpoo_9k?parent-topic-id=j-m8a-c01-3"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】多項式的加法（1）",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-03-1-1b?parent-topic-id=j-m8a-c01-3"
+        },
+        {
+          "title": "【基礎】多項式的加法（2）",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-03-1-1c?parent-topic-id=j-m8a-c01-3"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c02-1",
+      "grade": 8,
+      "chapter": "第二章 二次方根與畢氏定理",
+      "title": "2-1 二次方根",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c02-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c02",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】平方根的意義",
+          "url": "https://www.junyiacademy.org/video/fhINR5v_i7M?parent-topic-id=j-m8a-c02-1"
+        },
+        {
+          "title": "【概念1】認識根號",
+          "url": "https://www.junyiacademy.org/video/n-4mAqBNi7Q?parent-topic-id=j-m8a-c02-1"
+        },
+        {
+          "title": "【概念3】根號7乘以根號7等於多少",
+          "url": "https://www.junyiacademy.org/video/0eSdL-CU_28?parent-topic-id=j-m8a-c02-1"
+        },
+        {
+          "title": "【概念4】方根比大小",
+          "url": "https://www.junyiacademy.org/video/sj461WO8Vq0?parent-topic-id=j-m8a-c02-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】根號 a 的意義",
+          "url": "https://www.junyiacademy.org/exercise/jnc-8-01-1-1a?parent-topic-id=j-m8a-c02-1"
+        },
+        {
+          "title": "【基礎】比較大小",
+          "url": "https://www.junyiacademy.org/exercise/jnc-8-01-1-1b?parent-topic-id=j-m8a-c02-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c02-2",
+      "grade": 8,
+      "chapter": "第二章 二次方根與畢氏定理",
+      "title": "2-2 二次方根的近似值",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c02-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c02",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【概念5】9的平方根",
+          "url": "https://www.junyiacademy.org/video/3NXpYkSpu9k?parent-topic-id=j-m8a-c02-2"
+        },
+        {
+          "title": "【概念6】2的平方根",
+          "url": "https://www.junyiacademy.org/video/zTWgh9NxVCM?parent-topic-id=j-m8a-c02-2"
+        },
+        {
+          "title": "【例題5】求根號a的近似值",
+          "url": "https://www.junyiacademy.org/video/6V4VUhidUXc?parent-topic-id=j-m8a-c02-2"
+        },
+        {
+          "title": "【解題】用計算機求根號 𝑎 的近似值：𝑎 是小數",
+          "url": "https://www.junyiacademy.org/video/2ICvhOmuekQ?parent-topic-id=j-m8a-c02-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】根號a的近似值",
+          "url": "https://www.junyiacademy.org/exercise/jnc-8-02-1-1a?parent-topic-id=j-m8a-c02-2"
+        },
+        {
+          "title": "【基礎】用計算機求根號a的近似值",
+          "url": "https://www.junyiacademy.org/exercise/jnc-8-02-1-1b?parent-topic-id=j-m8a-c02-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c02-3",
+      "grade": 8,
+      "chapter": "第二章 二次方根與畢氏定理",
+      "title": "2-3 根式的運算",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c02-3",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c02",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【概念1】根式的意義",
+          "url": "https://www.junyiacademy.org/video/BNn-RobwgmI?parent-topic-id=j-m8a-c02-3"
+        },
+        {
+          "title": "【素養動畫】【觀念】根式的表示與乘法運算",
+          "url": "https://www.junyiacademy.org/video/omHooZdcirI?parent-topic-id=j-m8a-c02-3"
+        },
+        {
+          "title": "【概念2】根式的乘法運算",
+          "url": "https://www.junyiacademy.org/video/3AMtaghb58Q?parent-topic-id=j-m8a-c02-3"
+        },
+        {
+          "title": "【素養動畫】【觀念】根號的化簡",
+          "url": "https://www.junyiacademy.org/video/726YWdyubY8?parent-topic-id=j-m8a-c02-3"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】數與根式的運算 1",
+          "url": "https://www.junyiacademy.org/exercise/jnc-8-01-2-1a?parent-topic-id=j-m8a-c02-3"
+        },
+        {
+          "title": "【基礎】數與根式的運算 2",
+          "url": "https://www.junyiacademy.org/exercise/jnc-8-01-2-1b?parent-topic-id=j-m8a-c02-3"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c02-4",
+      "grade": 8,
+      "chapter": "第二章 二次方根與畢氏定理",
+      "title": "2-4 畢氏定理",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c02-4",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c02",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】畢氏定理的發現",
+          "url": "https://www.junyiacademy.org/video/tijI0c91D7U?parent-topic-id=j-m8a-c02-4"
+        },
+        {
+          "title": "【素養動畫】【觀念】畢氏定理的應用：基礎",
+          "url": "https://www.junyiacademy.org/video/1FHxJOk-_6o?parent-topic-id=j-m8a-c02-4"
+        },
+        {
+          "title": "【素養動畫】【觀念】畢氏定理的應用：進階",
+          "url": "https://www.junyiacademy.org/video/rvyPPh5hZF8?parent-topic-id=j-m8a-c02-4"
+        },
+        {
+          "title": "【概念1】畢氏定理",
+          "url": "https://www.junyiacademy.org/video/jBPUdTs2ywA?parent-topic-id=j-m8a-c02-4"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】利用畢氏定理求直角三角形的第三邊",
+          "url": "https://www.junyiacademy.org/exercise/jsc-8-06-1-1a?parent-topic-id=j-m8a-c02-4"
+        },
+        {
+          "title": "【基礎】利用畢氏定理求正方形或矩形對角線的長度",
+          "url": "https://www.junyiacademy.org/exercise/jsc-8-06-1-1b?parent-topic-id=j-m8a-c02-4"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c02-5",
+      "grade": 8,
+      "chapter": "第二章 二次方根與畢氏定理",
+      "title": "2-5 直角坐標系上兩點的距離公式",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c02-5",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c02",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】兩點距離公式與應用",
+          "url": "https://www.junyiacademy.org/video/0ySnFo8p9VI?parent-topic-id=j-m8a-c02-5"
+        },
+        {
+          "title": "【概念5】平面上兩點距離（水平與鉛直）",
+          "url": "https://www.junyiacademy.org/video/A-_VDnBFFco?parent-topic-id=j-m8a-c02-5"
+        },
+        {
+          "title": "【概念6】坐標平面上兩點的距離",
+          "url": "https://www.junyiacademy.org/video/oArmQ_QfGE8?parent-topic-id=j-m8a-c02-5"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】水平、鉛垂線上兩點的距離",
+          "url": "https://www.junyiacademy.org/exercise/jgc-8-01-1-1a?parent-topic-id=j-m8a-c02-5"
+        },
+        {
+          "title": "【基礎】求水平線或鉛直線上兩點的距離",
+          "url": "https://www.junyiacademy.org/exercise/mjnfg8ck?parent-topic-id=j-m8a-c02-5"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c03-1",
+      "grade": 8,
+      "chapter": "第三章 因式分解",
+      "title": "3-1 因式分解的意義",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c03-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c03",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】因式與倍式",
+          "url": "https://www.junyiacademy.org/video/EUUZp2MkXOI?parent-topic-id=j-m8a-c03-1"
+        },
+        {
+          "title": "【概念2】因式與倍式的意義",
+          "url": "https://www.junyiacademy.org/video/hBCT1VLONjQ?parent-topic-id=j-m8a-c03-1"
+        },
+        {
+          "title": "【概念1】用除法判別因式和倍式",
+          "url": "https://www.junyiacademy.org/video/MeOe3fphvZQ?parent-topic-id=j-m8a-c03-1"
+        },
+        {
+          "title": "【素養動畫】【觀念】利用除法做因式分解",
+          "url": "https://www.junyiacademy.org/video/t_uuU3qhD9Q?parent-topic-id=j-m8a-c03-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】因式與倍式的判斷",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-04-1-1a?parent-topic-id=j-m8a-c03-1"
+        },
+        {
+          "title": "【基礎】利用除法做因式分解",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-04-2-1a?parent-topic-id=j-m8a-c03-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c03-2",
+      "grade": 8,
+      "chapter": "第三章 因式分解",
+      "title": "3-2 因式分解的方法",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c03-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c03",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】提公因式法",
+          "url": "https://www.junyiacademy.org/video/RMwbkhv1IYY?parent-topic-id=j-m8a-c03-2"
+        },
+        {
+          "title": "【概念4】公因式",
+          "url": "https://www.junyiacademy.org/video/PWXnuXOkNcQ?parent-topic-id=j-m8a-c03-2"
+        },
+        {
+          "title": "【概念5】利用提出公因式做因式分解",
+          "url": "https://www.junyiacademy.org/video/LI6ehT20rEk?parent-topic-id=j-m8a-c03-2"
+        },
+        {
+          "title": "【素養動畫】【觀念】分組提公因式法",
+          "url": "https://www.junyiacademy.org/video/jzw2fBEP44k?parent-topic-id=j-m8a-c03-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】判別公因式",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-05-1-1a?parent-topic-id=j-m8a-c03-2"
+        },
+        {
+          "title": "【基礎】提單項公因式",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-05-1-1b?parent-topic-id=j-m8a-c03-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c04-1",
+      "grade": 8,
+      "chapter": "第四章 一元二次方程式",
+      "title": "4-1 一元二次方程式的意義",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c04-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c04",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】一元二次方程式及其解的意義",
+          "url": "https://www.junyiacademy.org/video/BR2v8Cc_VPM?parent-topic-id=j-m8a-c04-1"
+        },
+        {
+          "title": "【概念1】一元二次方程式的意義",
+          "url": "https://www.junyiacademy.org/video/483tj4FxU1s?parent-topic-id=j-m8a-c04-1"
+        },
+        {
+          "title": "【概念2】一元二次方程式的解（根）",
+          "url": "https://www.junyiacademy.org/video/1m_pp3bJcZs?parent-topic-id=j-m8a-c04-1"
+        },
+        {
+          "title": "【例題1】判別一元二次方程式",
+          "url": "https://www.junyiacademy.org/video/ACq_1D-vCBA?parent-topic-id=j-m8a-c04-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】判斷一元二次方程式",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-06-2-1a?parent-topic-id=j-m8a-c04-1"
+        },
+        {
+          "title": "【基礎】一元二次方程式的解",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-06-2-1b?parent-topic-id=j-m8a-c04-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c04-2",
+      "grade": 8,
+      "chapter": "第四章 一元二次方程式",
+      "title": "4-2 一元二次方程式的解法",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c04-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c04",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】因式分解法解一元二次方程式",
+          "url": "https://www.junyiacademy.org/video/JbHH2ew8N24?parent-topic-id=j-m8a-c04-2"
+        },
+        {
+          "title": "【概念3】A×B＝0，則A＝0或B＝0",
+          "url": "https://www.junyiacademy.org/video/xK3oLJd7j6I?parent-topic-id=j-m8a-c04-2"
+        },
+        {
+          "title": "【概念4】利用提公因式解一元二次方程式",
+          "url": "https://www.junyiacademy.org/video/FYn4SAiDj6U?parent-topic-id=j-m8a-c04-2"
+        },
+        {
+          "title": "【概念6】利用乘法公式解一元二次方程式",
+          "url": "https://www.junyiacademy.org/video/4UAFYb9x4pU?parent-topic-id=j-m8a-c04-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】利用「若 ab=0，則 a=0 或 b=0」解方程式",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-07-1-1a?parent-topic-id=j-m8a-c04-2"
+        },
+        {
+          "title": "【基礎】利用提公因式法解方程式 (1)",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-07-1-2a?parent-topic-id=j-m8a-c04-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c04-3",
+      "grade": 8,
+      "chapter": "第四章 一元二次方程式",
+      "title": "4-3 一元二次方程式的應用",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c04-3",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c04",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【概念1】文字語言轉為數學語言（等於）",
+          "url": "https://www.junyiacademy.org/video/tOoTchAOr9Y?parent-topic-id=j-m8a-c04-3"
+        },
+        {
+          "title": "【概念2】列式--文字語言轉為數學語言（加）",
+          "url": "https://www.junyiacademy.org/video/3QPTJjh_uN4?parent-topic-id=j-m8a-c04-3"
+        },
+        {
+          "title": "【概念3】列式--文字語言轉為數學語言（減）",
+          "url": "https://www.junyiacademy.org/video/HJjdm3SWLos?parent-topic-id=j-m8a-c04-3"
+        },
+        {
+          "title": "【概念4】列式--文字語言轉為數學語言（乘除）",
+          "url": "https://www.junyiacademy.org/video/J4YrZzuPy9A?parent-topic-id=j-m8a-c04-3"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】從具體情境中列出一元二次方程式",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-06-1-1a?parent-topic-id=j-m8a-c04-3"
+        },
+        {
+          "title": "【基礎】應用問題",
+          "url": "https://www.junyiacademy.org/exercise/jac-8-07-2-4a?parent-topic-id=j-m8a-c04-3"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c05-1",
+      "grade": 8,
+      "chapter": "第五章 統計資料處理與圖表",
+      "title": "5-1 統計資料處理",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c05-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c05",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【概念5】相對次數分配表",
+          "url": "https://www.junyiacademy.org/video/Lhxs47wU3AI?parent-topic-id=j-m8a-c05-1"
+        },
+        {
+          "title": "【概念6】相對次數分配折線圖",
+          "url": "https://www.junyiacademy.org/video/7hUa4bNtplw?parent-topic-id=j-m8a-c05-1"
+        },
+        {
+          "title": "【概念】次數與累積次數的意義",
+          "url": "https://www.junyiacademy.org/video/GOwa57Q0Asw?parent-topic-id=j-m8a-c05-1"
+        },
+        {
+          "title": "【概念3】累積次數分配表",
+          "url": "https://www.junyiacademy.org/video/v2xnayMWtsk?parent-topic-id=j-m8a-c05-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】相對次數分配表",
+          "url": "https://www.junyiacademy.org/exercise/jdc-8-01-1-1a?parent-topic-id=j-m8a-c05-1"
+        },
+        {
+          "title": "【基礎】相對次數分配圖",
+          "url": "https://www.junyiacademy.org/exercise/jdc-8-01-1-2a?parent-topic-id=j-m8a-c05-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c06-1",
+      "grade": 8,
+      "chapter": "第六章 數列與級數",
+      "title": "6-1 數列與等差數列",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c06-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c06",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】規律的數列",
+          "url": "https://www.junyiacademy.org/video/T8-TatPYvfk?parent-topic-id=j-m8a-c06-1"
+        },
+        {
+          "title": "【觀念】認識數列",
+          "url": "https://www.junyiacademy.org/video/0z0J1bMDcfY?parent-topic-id=j-m8a-c06-1"
+        },
+        {
+          "title": "【觀念】認識等差數列",
+          "url": "https://www.junyiacademy.org/video/hO-i-3GkQW0?parent-topic-id=j-m8a-c06-1"
+        },
+        {
+          "title": "【素養動畫】【觀念】等差數列的一般項與公差",
+          "url": "https://www.junyiacademy.org/video/MSDQApxeR1k?parent-topic-id=j-m8a-c06-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】認識數列與數列的項",
+          "url": "https://www.junyiacademy.org/exercise/mjnsl8aa?parent-topic-id=j-m8a-c06-1"
+        },
+        {
+          "title": "【基礎】認識數列",
+          "url": "https://www.junyiacademy.org/exercise/jnc-8-03-1-1a?parent-topic-id=j-m8a-c06-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c06-2",
+      "grade": 8,
+      "chapter": "第六章 數列與級數",
+      "title": "6-2 等差級數",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c06-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c06",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【觀念】級數和等差級數 1",
+          "url": "https://www.junyiacademy.org/video/SFSLFKAhfWo?parent-topic-id=j-m8a-c06-2"
+        },
+        {
+          "title": "【觀念】級數和等差級數 2",
+          "url": "https://www.junyiacademy.org/video/5eyB2hIW628?parent-topic-id=j-m8a-c06-2"
+        },
+        {
+          "title": "【素養動畫】【觀念】等差級數求和（利用首項、末項、項數）",
+          "url": "https://www.junyiacademy.org/video/431S7NPbmG4?parent-topic-id=j-m8a-c06-2"
+        },
+        {
+          "title": "【觀念】等差級數 𝑆ₙ 的另一個公式",
+          "url": "https://www.junyiacademy.org/video/0V14II_WuJQ?parent-topic-id=j-m8a-c06-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】認識級數與等差級數",
+          "url": "https://www.junyiacademy.org/exercise/mjnsl8ba?parent-topic-id=j-m8a-c06-2"
+        },
+        {
+          "title": "【基礎】認識級數與等差級數 2",
+          "url": "https://www.junyiacademy.org/exercise/jnc-8-05-1-1a?parent-topic-id=j-m8a-c06-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c06-3",
+      "grade": 8,
+      "chapter": "第六章 數列與級數",
+      "title": "6-3 等比數列",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c06-3",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c06",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】等比數列基本觀念",
+          "url": "https://www.junyiacademy.org/video/_9xR_P7_Etw?parent-topic-id=j-m8a-c06-3"
+        },
+        {
+          "title": "【素養動畫】【觀念】等比數列求某項",
+          "url": "https://www.junyiacademy.org/video/QJ1FYSG6BB4?parent-topic-id=j-m8a-c06-3"
+        },
+        {
+          "title": "【觀念】認識等比數列",
+          "url": "https://www.junyiacademy.org/video/Vdt1JPJHr8s?parent-topic-id=j-m8a-c06-3"
+        },
+        {
+          "title": "【觀念】等比數列的一般項",
+          "url": "https://www.junyiacademy.org/video/d_DHwEBM44A?parent-topic-id=j-m8a-c06-3"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】認識等比數列",
+          "url": "https://www.junyiacademy.org/exercise/n-m8bch1-1-3c?parent-topic-id=j-m8a-c06-3"
+        },
+        {
+          "title": "【基礎】認識等比數列 2",
+          "url": "https://www.junyiacademy.org/exercise/jnc-8-06-1-1a?parent-topic-id=j-m8a-c06-3"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c07-1",
+      "grade": 8,
+      "chapter": "第七章 線型函數與其圖形",
+      "title": "7-1 線型函數與其圖形",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c07-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c07",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】函數與對應變化關係",
+          "url": "https://www.junyiacademy.org/video/6zect6G9W40?parent-topic-id=j-m8a-c07-1"
+        },
+        {
+          "title": "【觀念】認識函數",
+          "url": "https://www.junyiacademy.org/video/x4JECM_qes0?parent-topic-id=j-m8a-c07-1"
+        },
+        {
+          "title": "【觀念】函數的判別",
+          "url": "https://www.junyiacademy.org/video/hBhxA72mOBM?parent-topic-id=j-m8a-c07-1"
+        },
+        {
+          "title": "【素養動畫】【觀念】函數值",
+          "url": "https://www.junyiacademy.org/video/tVa9oFTAnxA?parent-topic-id=j-m8a-c07-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】由表格、圖形觀察對應關係",
+          "url": "https://www.junyiacademy.org/exercise/n-m8b-ch2-1-1a?parent-topic-id=j-m8a-c07-1"
+        },
+        {
+          "title": "【基礎】由表格、圖形觀察對應關係 2",
+          "url": "https://www.junyiacademy.org/exercise/jfc-8-01-1-1a?parent-topic-id=j-m8a-c07-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c08-1",
+      "grade": 8,
+      "chapter": "第八章 三角形的基本性質",
+      "title": "8-1 內角與外角",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c08-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c08",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】認識角與兩角關係",
+          "url": "https://www.junyiacademy.org/video/A8a1OhipWgI?parent-topic-id=j-m8a-c08-1"
+        },
+        {
+          "title": "【觀念】角的分類",
+          "url": "https://www.junyiacademy.org/video/-zGMRUGUBJc?parent-topic-id=j-m8a-c08-1"
+        },
+        {
+          "title": "【觀念】餘角和補角",
+          "url": "https://www.junyiacademy.org/video/eJFiGmnbyxQ?parent-topic-id=j-m8a-c08-1"
+        },
+        {
+          "title": "【觀念】認識對頂角",
+          "url": "https://www.junyiacademy.org/video/hgo-2j0wqS8?parent-topic-id=j-m8a-c08-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】認識角",
+          "url": "https://www.junyiacademy.org/exercise/mjstx7ab?parent-topic-id=j-m8a-c08-1"
+        },
+        {
+          "title": "【基礎】認識角 2",
+          "url": "https://www.junyiacademy.org/exercise/jsc-8-01-1-1a?parent-topic-id=j-m8a-c08-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c08-2",
+      "grade": 8,
+      "chapter": "第八章 三角形的基本性質",
+      "title": "8-2 基本的尺規作圖",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c08-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c08",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】尺規作圖複製線段與角",
+          "url": "https://www.junyiacademy.org/video/oWuwwRLj9DM?parent-topic-id=j-m8a-c08-2"
+        },
+        {
+          "title": "【觀念】等線段作圖",
+          "url": "https://www.junyiacademy.org/video/CK2DL7hfFv4?parent-topic-id=j-m8a-c08-2"
+        },
+        {
+          "title": "【觀念】等角作圖",
+          "url": "https://www.junyiacademy.org/video/FXokhG4vxLQ?parent-topic-id=j-m8a-c08-2"
+        },
+        {
+          "title": "【素養動畫】【觀念】尺規作圖平分線段與平分角",
+          "url": "https://www.junyiacademy.org/video/ax8CHWAIkok?parent-topic-id=j-m8a-c08-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】尺規作圖：線段",
+          "url": "https://www.junyiacademy.org/exercise/mjstx8ca?parent-topic-id=j-m8a-c08-2"
+        },
+        {
+          "title": "【基礎】尺規作圖：等線段作圖",
+          "url": "https://www.junyiacademy.org/exercise/jsc-8-12-1-1a?parent-topic-id=j-m8a-c08-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c08-3",
+      "grade": 8,
+      "chapter": "第八章 三角形的基本性質",
+      "title": "8-3 三角形的全等性質",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c08-3",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c08",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】認識全等圖形",
+          "url": "https://www.junyiacademy.org/video/1byiEb1lOvQ?parent-topic-id=j-m8a-c08-3"
+        },
+        {
+          "title": "【觀念】全等三角形的表示法與性質",
+          "url": "https://www.junyiacademy.org/video/HHe-svSscLQ?parent-topic-id=j-m8a-c08-3"
+        },
+        {
+          "title": "【觀念】全等三角形的對應角相等",
+          "url": "https://www.junyiacademy.org/video/VEnpM9I_7Jk?parent-topic-id=j-m8a-c08-3"
+        },
+        {
+          "title": "【觀念】全等三角形的對應邊相等",
+          "url": "https://www.junyiacademy.org/video/_4VpmRcfHd0?parent-topic-id=j-m8a-c08-3"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】三角形全等的意義",
+          "url": "https://www.junyiacademy.org/exercise/mjssj8ba?parent-topic-id=j-m8a-c08-3"
+        },
+        {
+          "title": "【基礎】認識三角形的全等",
+          "url": "https://www.junyiacademy.org/exercise/jsc-8-04-1-1a?parent-topic-id=j-m8a-c08-3"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c08-4",
+      "grade": 8,
+      "chapter": "第八章 三角形的基本性質",
+      "title": "8-4 中垂線與角平分線性質",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c08-4",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c08",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】中垂線性質與逆性質",
+          "url": "https://www.junyiacademy.org/video/yG3D5BtVLl8?parent-topic-id=j-m8a-c08-4"
+        },
+        {
+          "title": "【觀念】中垂線的定義與性質",
+          "url": "https://www.junyiacademy.org/video/6ZmVItEzauM?parent-topic-id=j-m8a-c08-4"
+        },
+        {
+          "title": "【觀念】中垂線的判別性質",
+          "url": "https://www.junyiacademy.org/video/3iV2l7faxNA?parent-topic-id=j-m8a-c08-4"
+        },
+        {
+          "title": "【素養動畫】【觀念】角平分線性質與逆性質",
+          "url": "https://www.junyiacademy.org/video/-ifdiijaS-I?parent-topic-id=j-m8a-c08-4"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】垂直平分線性質",
+          "url": "https://www.junyiacademy.org/exercise/n-m8bch3-3b?parent-topic-id=j-m8a-c08-4"
+        },
+        {
+          "title": "【基礎】中垂線的性質",
+          "url": "https://www.junyiacademy.org/exercise/jsc-8-05-1-8a?parent-topic-id=j-m8a-c08-4"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c08-5",
+      "grade": 8,
+      "chapter": "第八章 三角形的基本性質",
+      "title": "8-5 三角形的邊角關係",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c08-5",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c08",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】三角形邊長不等關係",
+          "url": "https://www.junyiacademy.org/video/WWlLG1-dQCs?parent-topic-id=j-m8a-c08-5"
+        },
+        {
+          "title": "【觀念】組成三角形的邊長條件",
+          "url": "https://www.junyiacademy.org/video/Kko0s3ZaL-U?parent-topic-id=j-m8a-c08-5"
+        },
+        {
+          "title": "【觀念】三角形的邊長範圍",
+          "url": "https://www.junyiacademy.org/video/s5x7GtUd3Vc?parent-topic-id=j-m8a-c08-5"
+        },
+        {
+          "title": "【素養動畫】【觀念】三角形邊角不等關係",
+          "url": "https://www.junyiacademy.org/video/AIOxzYTED5U?parent-topic-id=j-m8a-c08-5"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】組成三角形的邊長條件",
+          "url": "https://www.junyiacademy.org/exercise/jsc-8-08-1-3a?parent-topic-id=j-m8a-c08-5"
+        },
+        {
+          "title": "【基礎】三角形邊長關係",
+          "url": "https://www.junyiacademy.org/exercise/mjssj8ca?parent-topic-id=j-m8a-c08-5"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c09-1",
+      "grade": 8,
+      "chapter": "第九章 平行與四邊形",
+      "title": "9-1 平行線與截角性質",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c09-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c09",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】摺紙與平行",
+          "url": "https://www.junyiacademy.org/video/r1g9L4jqOoo?parent-topic-id=j-m8a-c09-1"
+        },
+        {
+          "title": "【概念1】平行的意義",
+          "url": "https://www.junyiacademy.org/video/gKjCuCYa258?parent-topic-id=j-m8a-c09-1"
+        },
+        {
+          "title": "【概念2】平行線的性質2",
+          "url": "https://www.junyiacademy.org/video/qVkAJ8rKpFk?parent-topic-id=j-m8a-c09-1"
+        },
+        {
+          "title": "【觀念】截線與截角",
+          "url": "https://www.junyiacademy.org/video/icNP9Q3qkU0?parent-topic-id=j-m8a-c09-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】平行線的性質",
+          "url": "https://www.junyiacademy.org/exercise/jsc-8-03-1-1a?parent-topic-id=j-m8a-c09-1"
+        },
+        {
+          "title": "【基礎】認識截線與截角",
+          "url": "https://www.junyiacademy.org/exercise/mjssb8aa?parent-topic-id=j-m8a-c09-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c09-2",
+      "grade": 8,
+      "chapter": "第九章 平行與四邊形",
+      "title": "9-2 平行四邊形",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c09-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c09",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【觀念】平行四邊形",
+          "url": "https://www.junyiacademy.org/video/Cx7jKx47ZCw?parent-topic-id=j-m8a-c09-2"
+        },
+        {
+          "title": "【素養動畫】【觀念】平行四邊形的性質1",
+          "url": "https://www.junyiacademy.org/video/4KLUxwWI4K0?parent-topic-id=j-m8a-c09-2"
+        },
+        {
+          "title": "【素養動畫】【觀念】平行四邊形的性質2",
+          "url": "https://www.junyiacademy.org/video/UalaKpAPT4M?parent-topic-id=j-m8a-c09-2"
+        },
+        {
+          "title": "【觀念】平行四邊形對角線性質",
+          "url": "https://www.junyiacademy.org/video/tNqaDnS2vek?parent-topic-id=j-m8a-c09-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】平行四邊形的性質",
+          "url": "https://www.junyiacademy.org/exercise/jsc-8-09-1-1a?parent-topic-id=j-m8a-c09-2"
+        },
+        {
+          "title": "【基礎】平行四邊形的對角線性質 1",
+          "url": "https://www.junyiacademy.org/exercise/jsc-8-09-1-4a?parent-topic-id=j-m8a-c09-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m8a-c09-3",
+      "grade": 8,
+      "chapter": "第九章 平行與四邊形",
+      "title": "9-3 特殊四邊形",
+      "url": "https://www.junyiacademy.org/topics/j-m8a-c09-3",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m8a#topic-page-anchor-j-m8a-c09",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【觀念】菱形的性質與應用",
+          "url": "https://www.junyiacademy.org/video/KEVvgStI6zA?parent-topic-id=j-m8a-c09-3"
+        },
+        {
+          "title": "【觀念】認識菱形",
+          "url": "https://www.junyiacademy.org/video/uRLjFjgimUw?parent-topic-id=j-m8a-c09-3"
+        },
+        {
+          "title": "【觀念】菱形的對角線性質 1",
+          "url": "https://www.junyiacademy.org/video/6IbMegoZEt4?parent-topic-id=j-m8a-c09-3"
+        },
+        {
+          "title": "【觀念】菱形的對角線性質 2",
+          "url": "https://www.junyiacademy.org/video/mc3DvS88fVM?parent-topic-id=j-m8a-c09-3"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】菱形",
+          "url": "https://www.junyiacademy.org/exercise/n-m8bch4-3-1a?parent-topic-id=j-m8a-c09-3"
+        },
+        {
+          "title": "【基礎】菱形 2",
+          "url": "https://www.junyiacademy.org/exercise/jsc-8-10-1-1a?parent-topic-id=j-m8a-c09-3"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c01-1_y23",
+      "grade": 9,
+      "chapter": "第一章 連比與比例線段",
+      "title": "1-1 連比",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c01-1_y23",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c01_y23",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【暖身】連比的意義與性質",
+          "url": "https://www.junyiacademy.org/video/HL_8uAoYSzM?parent-topic-id=j-m9a-c01-1_y23"
+        },
+        {
+          "title": "【觀念】連比的意義",
+          "url": "https://www.junyiacademy.org/video/TaFMn4C7RuI?parent-topic-id=j-m9a-c01-1_y23"
+        },
+        {
+          "title": "【素養動畫】【概念】連比與連比例式",
+          "url": "https://www.junyiacademy.org/video/GdeadNlSs70?parent-topic-id=j-m9a-c01-1_y23"
+        },
+        {
+          "title": "【暖身】比與比例",
+          "url": "https://www.junyiacademy.org/video/CV8L2gmqUAs?parent-topic-id=j-m9a-c01-1_y23"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】連比的記法",
+          "url": "https://www.junyiacademy.org/exercise/jnc-9-01-1-1a?parent-topic-id=j-m9a-c01-1_y23"
+        },
+        {
+          "title": "【一般】認識連比",
+          "url": "https://www.junyiacademy.org/exercise/mjnbl7ba?parent-topic-id=j-m9a-c01-1_y23"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c01-2_y23",
+      "grade": 9,
+      "chapter": "第一章 連比與比例線段",
+      "title": "1-2 連比例式的基本運算",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c01-2_y23",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c01_y23",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【概念】連比例式的運算性質",
+          "url": "https://www.junyiacademy.org/video/JsBF26h8YIc?parent-topic-id=j-m9a-c01-2_y23"
+        },
+        {
+          "title": "【觀念】連比例式的意義",
+          "url": "https://www.junyiacademy.org/video/ipDuqc0nXLI?parent-topic-id=j-m9a-c01-2_y23"
+        },
+        {
+          "title": "【觀念】連比例式的性質",
+          "url": "https://www.junyiacademy.org/video/jsxjo_-JQ1Y?parent-topic-id=j-m9a-c01-2_y23"
+        },
+        {
+          "title": "【素養動畫】【解題】連比例式的應用：單位換算",
+          "url": "https://www.junyiacademy.org/video/Uy7ELJvJBUA?parent-topic-id=j-m9a-c01-2_y23"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】連比例式的運算",
+          "url": "https://www.junyiacademy.org/exercise/jnc-9-01-2-1a?parent-topic-id=j-m9a-c01-2_y23"
+        },
+        {
+          "title": "【一般】連比的應用問題",
+          "url": "https://www.junyiacademy.org/exercise/jnc-9-01-2-2a?parent-topic-id=j-m9a-c01-2_y23"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c01-3_y23",
+      "grade": 9,
+      "chapter": "第一章 連比與比例線段",
+      "title": "1-3 平行線截比例線段性質",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c01-3_y23",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c01_y23",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【概念】 三角形截比例線段1",
+          "url": "https://www.junyiacademy.org/video/SKTGdH2Q7Ow?parent-topic-id=j-m9a-c01-3_y23"
+        },
+        {
+          "title": "【觀念】兩平行線間的三角形",
+          "url": "https://www.junyiacademy.org/video/Fdaet2Jwvrg?parent-topic-id=j-m9a-c01-3_y23"
+        },
+        {
+          "title": "【觀念】三角形底邊與面積的關係",
+          "url": "https://www.junyiacademy.org/video/nFJSdBFKnhg?parent-topic-id=j-m9a-c01-3_y23"
+        },
+        {
+          "title": "【素養動畫】【概念】 三角形截比例線段2",
+          "url": "https://www.junyiacademy.org/video/wsgw3AnIvjI?parent-topic-id=j-m9a-c01-3_y23"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】三角形底邊與面積的關係",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-03-1-1a?parent-topic-id=j-m9a-c01-3_y23"
+        },
+        {
+          "title": "【基礎】三角形底邊與面積的關係",
+          "url": "https://www.junyiacademy.org/exercise/mjsxs9aa?parent-topic-id=j-m9a-c01-3_y23"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c01-4_y23",
+      "grade": 9,
+      "chapter": "第一章 連比與比例線段",
+      "title": "1-4 三角形兩邊中點連線段性質",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c01-4_y23",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c01_y23",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【概念】三角形兩邊中點連線性質",
+          "url": "https://www.junyiacademy.org/video/JAEToC7-9zg?parent-topic-id=j-m9a-c01-4_y23"
+        },
+        {
+          "title": "【觀念】三角形兩邊中點連線性質",
+          "url": "https://www.junyiacademy.org/video/j9NJD52ttVA?parent-topic-id=j-m9a-c01-4_y23"
+        },
+        {
+          "title": "【解題】三角形兩邊中點連線性質 1",
+          "url": "https://www.junyiacademy.org/video/LSl8ugmdi60?parent-topic-id=j-m9a-c01-4_y23"
+        },
+        {
+          "title": "【解題】三角形兩邊中點連線性質的應用 3",
+          "url": "https://www.junyiacademy.org/video/slVmBIB7YL8?parent-topic-id=j-m9a-c01-4_y23"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】三角形兩邊中點連線段性質",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-03-2-1a?parent-topic-id=j-m9a-c01-4_y23"
+        },
+        {
+          "title": "【基礎】三角形兩邊中點連線性質",
+          "url": "https://www.junyiacademy.org/exercise/mjsxs9af?parent-topic-id=j-m9a-c01-4_y23"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c02-1_y23",
+      "grade": 9,
+      "chapter": "第二章 相似形",
+      "title": "2-1 多邊形相似的意義",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c02-1_y23",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c02_y23",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【暖身】圖形的相似",
+          "url": "https://www.junyiacademy.org/video/-0cRKoi5diw?parent-topic-id=j-m9a-c02-1_y23"
+        },
+        {
+          "title": "【觀念】多邊形的縮放 1",
+          "url": "https://www.junyiacademy.org/video/27-82D7y-q0?parent-topic-id=j-m9a-c02-1_y23"
+        },
+        {
+          "title": "【觀念】多邊形的縮放 2",
+          "url": "https://www.junyiacademy.org/video/rFFy49Uzlgs?parent-topic-id=j-m9a-c02-1_y23"
+        },
+        {
+          "title": "【素養動畫】【暖身】認識相似多邊形",
+          "url": "https://www.junyiacademy.org/video/3JYyWFkHDQI?parent-topic-id=j-m9a-c02-1_y23"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】線段與角的縮放",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-01-1-1a?parent-topic-id=j-m9a-c02-1_y23"
+        },
+        {
+          "title": "【基礎】多邊形縮放後的邊角關係",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-01-1-1b?parent-topic-id=j-m9a-c02-1_y23"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c02-2_y23",
+      "grade": 9,
+      "chapter": "第二章 相似形",
+      "title": "2-2 三角形的相似性質",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c02-2_y23",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c02_y23",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【暖身】相似三角形",
+          "url": "https://www.junyiacademy.org/video/rGRbhFS-K88?parent-topic-id=j-m9a-c02-2_y23"
+        },
+        {
+          "title": "【素養動畫】【概念】AA相似形",
+          "url": "https://www.junyiacademy.org/video/T3-7TUlNna8?parent-topic-id=j-m9a-c02-2_y23"
+        },
+        {
+          "title": "【觀念】 AA 相似",
+          "url": "https://www.junyiacademy.org/video/8TpdfX9g1J8?parent-topic-id=j-m9a-c02-2_y23"
+        },
+        {
+          "title": "【素養動畫】【概念】SAS相似形",
+          "url": "https://www.junyiacademy.org/video/52TJRFOFrro?parent-topic-id=j-m9a-c02-2_y23"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】三角形 AA 相似性質",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-02-1-1a?parent-topic-id=j-m9a-c02-2_y23"
+        },
+        {
+          "title": "【基礎】三角形 SAS 相似性質",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-02-1-2a?parent-topic-id=j-m9a-c02-2_y23"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c02-3_y23",
+      "grade": 9,
+      "chapter": "第二章 相似形",
+      "title": "2-3 相似三角形的應用",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c02-3_y23",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c02_y23",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【概念】相似三角形的幾何性質",
+          "url": "https://www.junyiacademy.org/video/rYN8AnwK56g?parent-topic-id=j-m9a-c02-3_y23"
+        },
+        {
+          "title": "【素養動畫】【解題】相似三角形的應用 1",
+          "url": "https://www.junyiacademy.org/video/hssEwR0mUuw?parent-topic-id=j-m9a-c02-3_y23"
+        },
+        {
+          "title": "【觀念】相似三角形的高與面積",
+          "url": "https://www.junyiacademy.org/video/OP1luHU1Rck?parent-topic-id=j-m9a-c02-3_y23"
+        },
+        {
+          "title": "【素養動畫】【解題】相似三角形的應用 2",
+          "url": "https://www.junyiacademy.org/video/2FgK5Cqr4eU?parent-topic-id=j-m9a-c02-3_y23"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】相似三角形的面積與邊長關係",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-02-2-1a?parent-topic-id=j-m9a-c02-3_y23"
+        },
+        {
+          "title": "【基礎】兩個相似三角形的對應線段關係",
+          "url": "https://www.junyiacademy.org/exercise/mjsxs9cf?parent-topic-id=j-m9a-c02-3_y23"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c03-1_y23",
+      "grade": 9,
+      "chapter": "第三章 圓",
+      "title": "3-1 點、直線與圓的關係",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c03-1_y23",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c03_y23",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【暖身】圓的基本概念",
+          "url": "https://www.junyiacademy.org/video/9GhMHwUxU5c?parent-topic-id=j-m9a-c03-1_y23"
+        },
+        {
+          "title": "【素養動畫】【解題】正多邊形和圓",
+          "url": "https://www.junyiacademy.org/video/wmjsfNSl4DM?parent-topic-id=j-m9a-c03-1_y23"
+        },
+        {
+          "title": "【素養動畫】【概念】圓的幾何特質",
+          "url": "https://www.junyiacademy.org/video/rGOt7Az5XP0?parent-topic-id=j-m9a-c03-1_y23"
+        },
+        {
+          "title": "【素養動畫】【暖身】弧長與扇形面積",
+          "url": "https://www.junyiacademy.org/video/NfydAV0b9sc?parent-topic-id=j-m9a-c03-1_y23"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】弧長和扇形周長",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-05-1-1a?parent-topic-id=j-m9a-c03-1_y23"
+        },
+        {
+          "title": "【一般】弦、弧與圓心角",
+          "url": "https://www.junyiacademy.org/exercise/mjsyx9ba?parent-topic-id=j-m9a-c03-1_y23"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c03-2_y23",
+      "grade": 9,
+      "chapter": "第三章 圓",
+      "title": "3-2 圓心角、圓周角與弧的關係",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c03-2_y23",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c03_y23",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【概念】認識圓心角",
+          "url": "https://www.junyiacademy.org/video/5WCauVszhrs?parent-topic-id=j-m9a-c03-2_y23"
+        },
+        {
+          "title": "【觀念】弧的度數和長度",
+          "url": "https://www.junyiacademy.org/video/w3mPvwkvWTk?parent-topic-id=j-m9a-c03-2_y23"
+        },
+        {
+          "title": "【觀念】等弧對等弦，等弦對等弧",
+          "url": "https://www.junyiacademy.org/video/IzLwYNWpd88?parent-topic-id=j-m9a-c03-2_y23"
+        },
+        {
+          "title": "【素養動畫】【概念】認識圓周角",
+          "url": "https://www.junyiacademy.org/video/A5NVJtZuPr8?parent-topic-id=j-m9a-c03-2_y23"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】弧的度數",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-06-1-1a?parent-topic-id=j-m9a-c03-2_y23"
+        },
+        {
+          "title": "【基礎】等弧對等弦",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-06-1-1b?parent-topic-id=j-m9a-c03-2_y23"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c04-1_y23",
+      "grade": 9,
+      "chapter": "第四章 推理與證明",
+      "title": "4-1 證明的意義",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c04-1_y23",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c04_y23",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【暖身】證明的意義",
+          "url": "https://www.junyiacademy.org/video/27nn6zxlawk?parent-topic-id=j-m9a-c04-1_y23"
+        },
+        {
+          "title": "【素養動畫】【概念】證明的思維",
+          "url": "https://www.junyiacademy.org/video/SpRsX6p3NUg?parent-topic-id=j-m9a-c04-1_y23"
+        },
+        {
+          "title": "【素養動畫】【概念】證明的方法：舉反例",
+          "url": "https://www.junyiacademy.org/video/fd6LUZR6llU?parent-topic-id=j-m9a-c04-1_y23"
+        },
+        {
+          "title": "【觀念】認識證明",
+          "url": "https://www.junyiacademy.org/video/xPyAjvf0seQ?parent-topic-id=j-m9a-c04-1_y23"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】認識與學習證明",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-11-1-1a?parent-topic-id=j-m9a-c04-1_y23"
+        },
+        {
+          "title": "【基礎】認識證明",
+          "url": "https://www.junyiacademy.org/exercise/mjszm9aa?parent-topic-id=j-m9a-c04-1_y23"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c04-2_y23",
+      "grade": 9,
+      "chapter": "第四章 推理與證明",
+      "title": "4-2 幾何證明",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c04-2_y23",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c04_y23",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【概念】幾何推理",
+          "url": "https://www.junyiacademy.org/video/GRSPmQ04hB0?parent-topic-id=j-m9a-c04-2_y23"
+        },
+        {
+          "title": "【證明】等腰三角形兩腰上的高相等",
+          "url": "https://www.junyiacademy.org/video/TuEkilEOnzc?parent-topic-id=j-m9a-c04-2_y23"
+        },
+        {
+          "title": "【證明】等腰三角形兩腰上的高相等",
+          "url": "https://www.junyiacademy.org/video/8Gvv-dULUTs?parent-topic-id=j-m9a-c04-2_y23"
+        },
+        {
+          "title": "【證明】三角形全等 1",
+          "url": "https://www.junyiacademy.org/video/TOn2CffR_Kw?parent-topic-id=j-m9a-c04-2_y23"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】幾何證明 1",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-11-2-2a?parent-topic-id=j-m9a-c04-2_y23"
+        },
+        {
+          "title": "【基礎】幾何證明 2",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-11-2-2b?parent-topic-id=j-m9a-c04-2_y23"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c04-3_y23",
+      "grade": 9,
+      "chapter": "第四章 推理與證明",
+      "title": "4-3 代數證明",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c04-3_y23",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c04_y23",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【概念】代數推理",
+          "url": "https://www.junyiacademy.org/video/X_-AGoZLUW8?parent-topic-id=j-m9a-c04-3_y23"
+        },
+        {
+          "title": "【暖身】奇數和偶數",
+          "url": "https://www.junyiacademy.org/video/-DQin2Cwe-U?parent-topic-id=j-m9a-c04-3_y23"
+        },
+        {
+          "title": "【證明】代數推理證明的應用(奇數)",
+          "url": "https://www.junyiacademy.org/video/_G_-hGThHtg?parent-topic-id=j-m9a-c04-3_y23"
+        },
+        {
+          "title": "【證明】代數推理證明的應用(偶數)",
+          "url": "https://www.junyiacademy.org/video/2M9y5gnjhHk?parent-topic-id=j-m9a-c04-3_y23"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】奇偶數的判別",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-11-3-1a?parent-topic-id=j-m9a-c04-3_y23"
+        },
+        {
+          "title": "【基礎】因倍數的判別",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-11-3-1b?parent-topic-id=j-m9a-c04-3_y23"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c05-1_y23",
+      "grade": 9,
+      "chapter": "第五章 三角形的外心、內心與重心",
+      "title": "5-1 三角形的外心",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c05-1_y23",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c05_y23",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【概念】三角形的外心與外接圓",
+          "url": "https://www.junyiacademy.org/video/KdeD-AxCrXA?parent-topic-id=j-m9a-c05-1_y23"
+        },
+        {
+          "title": "【觀念】到三點等距離",
+          "url": "https://www.junyiacademy.org/video/xBlgvHW9DPo?parent-topic-id=j-m9a-c05-1_y23"
+        },
+        {
+          "title": "【觀念】什麼是外心",
+          "url": "https://www.junyiacademy.org/video/d-tgN1jRSGw?parent-topic-id=j-m9a-c05-1_y23"
+        },
+        {
+          "title": "【觀念】三角形的外心性質",
+          "url": "https://www.junyiacademy.org/video/P6Ghy9Lr_FI?parent-topic-id=j-m9a-c05-1_y23"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】三角形的外心",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-08-1-1a?parent-topic-id=j-m9a-c05-1_y23"
+        },
+        {
+          "title": "【基礎】三角形的外心與角度",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-08-1-1b?parent-topic-id=j-m9a-c05-1_y23"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c05-2_y23",
+      "grade": 9,
+      "chapter": "第五章 三角形的外心、內心與重心",
+      "title": "5-2 三角形的內心",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c05-2_y23",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c05_y23",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【概念】三角形的內心與內切圓",
+          "url": "https://www.junyiacademy.org/video/nzqy5grSjGM?parent-topic-id=j-m9a-c05-2_y23"
+        },
+        {
+          "title": "【觀念】三角形的三內角平分線",
+          "url": "https://www.junyiacademy.org/video/cQYz5cB92Sc?parent-topic-id=j-m9a-c05-2_y23"
+        },
+        {
+          "title": "【觀念】什麼是內心",
+          "url": "https://www.junyiacademy.org/video/Ummzt1nR9c4?parent-topic-id=j-m9a-c05-2_y23"
+        },
+        {
+          "title": "【觀念】三角形內切圓與面積關係",
+          "url": "https://www.junyiacademy.org/video/S-JuohomTJ0?parent-topic-id=j-m9a-c05-2_y23"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】三角形的內心",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-09-1-1a?parent-topic-id=j-m9a-c05-2_y23"
+        },
+        {
+          "title": "【基礎】三角形的內切圓半徑",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-09-1-1b?parent-topic-id=j-m9a-c05-2_y23"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c05-3_y23",
+      "grade": 9,
+      "chapter": "第五章 三角形的外心、內心與重心",
+      "title": "5-3 三角形的重心",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c05-3_y23",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c05_y23",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【概念】三角形的重心與中線",
+          "url": "https://www.junyiacademy.org/video/YqGo3C8r51A?parent-topic-id=j-m9a-c05-3_y23"
+        },
+        {
+          "title": "【觀念】中線的性質",
+          "url": "https://www.junyiacademy.org/video/XbBBDK7Sb3Y?parent-topic-id=j-m9a-c05-3_y23"
+        },
+        {
+          "title": "【觀念】重心",
+          "url": "https://www.junyiacademy.org/video/XlW72MLqPVw?parent-topic-id=j-m9a-c05-3_y23"
+        },
+        {
+          "title": "【素養動畫】【解題】三角形重心的應用",
+          "url": "https://www.junyiacademy.org/video/wca8wltsyPk?parent-topic-id=j-m9a-c05-3_y23"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】三角形的重心",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-10-1-1a?parent-topic-id=j-m9a-c05-3_y23"
+        },
+        {
+          "title": "【基礎】三角形重心性質的應用",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-10-1-1b?parent-topic-id=j-m9a-c05-3_y23"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c06-1",
+      "grade": 9,
+      "chapter": "第六章 二次函數",
+      "title": "6-1 簡易二次函數圖形",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c06-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c06",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【暖身】二次函數的引入",
+          "url": "https://www.junyiacademy.org/video/GcEFkXlvso0?parent-topic-id=j-m9a-c06-1"
+        },
+        {
+          "title": "【素養動畫】【概念】理解二次函數的意義",
+          "url": "https://www.junyiacademy.org/video/rvLFJXjH378?parent-topic-id=j-m9a-c06-1"
+        },
+        {
+          "title": "【素養動畫】【概念】二次函數 y＝ax² 的圖形和性質",
+          "url": "https://www.junyiacademy.org/video/xSXk5yicOds?parent-topic-id=j-m9a-c06-1"
+        },
+        {
+          "title": "【溫故知新1】函數與數字工廠",
+          "url": "https://www.junyiacademy.org/video/6x2dTZc1kwc?parent-topic-id=j-m9a-c06-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【暖身】函數",
+          "url": "https://www.junyiacademy.org/exercise/jfc-9-01-1-1a?parent-topic-id=j-m9a-c06-1"
+        },
+        {
+          "title": "【基礎】二次函數的判別",
+          "url": "https://www.junyiacademy.org/exercise/jfc-9-01-1-1b?parent-topic-id=j-m9a-c06-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c06-2",
+      "grade": 9,
+      "chapter": "第六章 二次函數",
+      "title": "6-2 二次函數圖形與最大值、最小值",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c06-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c06",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【概念】二次函數 y＝ax²＋k 的圖形和性質",
+          "url": "https://www.junyiacademy.org/video/kKaXvUGaD1Y?parent-topic-id=j-m9a-c06-2"
+        },
+        {
+          "title": "【素養動畫】【概念】二次函數 y＝ax²＋k 的圖形和性質：上下平移",
+          "url": "https://www.junyiacademy.org/video/Zds5GTzExcM?parent-topic-id=j-m9a-c06-2"
+        },
+        {
+          "title": "【素養動畫】【概念】二次函數 y＝a(x－h)²  的圖形和性質",
+          "url": "https://www.junyiacademy.org/video/3bPJrTgAB50?parent-topic-id=j-m9a-c06-2"
+        },
+        {
+          "title": "【素養動畫】【概念】二次函數 y＝a(x－h)² 的圖形和性質：左右平移",
+          "url": "https://www.junyiacademy.org/video/tmn0dR2Vo0I?parent-topic-id=j-m9a-c06-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】y＝ax²＋k（a≠0）的圖形",
+          "url": "https://www.junyiacademy.org/exercise/jfc-9-02-1-2a?parent-topic-id=j-m9a-c06-2"
+        },
+        {
+          "title": "【基礎】二次函數的上下平移",
+          "url": "https://www.junyiacademy.org/exercise/jfc-9-02-1-2b?parent-topic-id=j-m9a-c06-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c07-1",
+      "grade": 9,
+      "chapter": "第七章 統計與機率",
+      "title": "7-1 四分位數與盒狀圖",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c07-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c07",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【概念】能理解第一（Q1）第二（Q2）第三（Q3）四分位數的意義。",
+          "url": "https://www.junyiacademy.org/video/4XqFZSQP6vk?parent-topic-id=j-m9a-c07-1"
+        },
+        {
+          "title": "【概念】能認識全距及四分位距的意義。",
+          "url": "https://www.junyiacademy.org/video/7_5cPgXoHzw?parent-topic-id=j-m9a-c07-1"
+        },
+        {
+          "title": "【溫故知新1】平均數",
+          "url": "https://www.junyiacademy.org/video/woKBfHy_RMo?parent-topic-id=j-m9a-c07-1"
+        },
+        {
+          "title": "【溫故知新2】中位數",
+          "url": "https://www.junyiacademy.org/video/oMZFsK0qW6s?parent-topic-id=j-m9a-c07-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【暖身】平均數與中位數",
+          "url": "https://www.junyiacademy.org/exercise/jdc-9-01-1-1a?parent-topic-id=j-m9a-c07-1"
+        },
+        {
+          "title": "【基礎】四分位數的意義",
+          "url": "https://www.junyiacademy.org/exercise/jdc-9-01-1-1b?parent-topic-id=j-m9a-c07-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c07-2",
+      "grade": 9,
+      "chapter": "第七章 統計與機率",
+      "title": "7-2 機率",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c07-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c07",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【概念】機率的意義",
+          "url": "https://www.junyiacademy.org/video/O0lu1898I6U?parent-topic-id=j-m9a-c07-2"
+        },
+        {
+          "title": "【概念】對稱性情境下事件的機率",
+          "url": "https://www.junyiacademy.org/video/uX4srDdVB2w?parent-topic-id=j-m9a-c07-2"
+        },
+        {
+          "title": "【概念】透過樹狀圖認識事件發生的可能性",
+          "url": "https://www.junyiacademy.org/video/v44HAXAVBIw?parent-topic-id=j-m9a-c07-2"
+        },
+        {
+          "title": "【概念】列表求機率",
+          "url": "https://www.junyiacademy.org/video/XHiZSzs3z88?parent-topic-id=j-m9a-c07-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【暖身】事件",
+          "url": "https://www.junyiacademy.org/exercise/jdc-9-02-1-1a?parent-topic-id=j-m9a-c07-2"
+        },
+        {
+          "title": "【基礎】認識機率",
+          "url": "https://www.junyiacademy.org/exercise/jdc-9-02-1-1b?parent-topic-id=j-m9a-c07-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c08-1",
+      "grade": 9,
+      "chapter": "第八章 立體圖形",
+      "title": "8-1 角柱與圓柱",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c08-1",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c08",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【概念】認識多面體",
+          "url": "https://www.junyiacademy.org/video/adHKqLk1DZE?parent-topic-id=j-m9a-c08-1"
+        },
+        {
+          "title": "【概念】直角柱",
+          "url": "https://www.junyiacademy.org/video/64270muPfTc?parent-topic-id=j-m9a-c08-1"
+        },
+        {
+          "title": "【概念】圓柱與圓椎",
+          "url": "https://www.junyiacademy.org/video/ZGcU_OPkAjI?parent-topic-id=j-m9a-c08-1"
+        },
+        {
+          "title": "【暖身】平面圖形與立體圖形",
+          "url": "https://www.junyiacademy.org/video/RWHEpAfAsxM?parent-topic-id=j-m9a-c08-1"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【暖身】柱體與錐體",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-13-1-1a?parent-topic-id=j-m9a-c08-1"
+        },
+        {
+          "title": "【暖身】長方體與正方體的體積",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-13-1-1b?parent-topic-id=j-m9a-c08-1"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c08-2",
+      "grade": 9,
+      "chapter": "第八章 立體圖形",
+      "title": "8-2 角錐與圓錐",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c08-2",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c08",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【概念】直角錐",
+          "url": "https://www.junyiacademy.org/video/HFzVhwwQZis?parent-topic-id=j-m9a-c08-2"
+        },
+        {
+          "title": "【素養動畫】【概念】圓柱與圓椎",
+          "url": "https://www.junyiacademy.org/video/ZGcU_OPkAjI?parent-topic-id=j-m9a-c08-2"
+        },
+        {
+          "title": "【素養動畫】【概念】立體圖形的展開圖",
+          "url": "https://www.junyiacademy.org/video/_gcrXJ9zYXA?parent-topic-id=j-m9a-c08-2"
+        },
+        {
+          "title": "【素養動畫】【解題】利用展開圖求直角柱、直圓柱、直圓錐、正角錐的表面積及側面積",
+          "url": "https://www.junyiacademy.org/video/4NOR7ZFDCSc?parent-topic-id=j-m9a-c08-2"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【基礎】角錐",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-13-2-1a?parent-topic-id=j-m9a-c08-2"
+        },
+        {
+          "title": "【基礎】角錐的表面積",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-13-2-1b?parent-topic-id=j-m9a-c08-2"
+        }
+      ]
+    },
+    {
+      "id": "j-m9a-c08-3",
+      "grade": 9,
+      "chapter": "第八章 立體圖形",
+      "title": "8-3 空間中的線與平面",
+      "url": "https://www.junyiacademy.org/topics/j-m9a-c08-3",
+      "chapterUrl": "https://www.junyiacademy.org/topics/j-m9a#topic-page-anchor-j-m9a-c08",
+      "verified": true,
+      "videos": [
+        {
+          "title": "【素養動畫】【暖身】空間中的位置關係",
+          "url": "https://www.junyiacademy.org/video/f9rImgk8UeQ?parent-topic-id=j-m9a-c08-3"
+        },
+        {
+          "title": "【素養動畫】【概念】線與面的平行關係",
+          "url": "https://www.junyiacademy.org/video/lkRZZg2nvWA?parent-topic-id=j-m9a-c08-3"
+        },
+        {
+          "title": "【素養動畫】【概念】線與面的垂直關係",
+          "url": "https://www.junyiacademy.org/video/7UVLNGoq41g?parent-topic-id=j-m9a-c08-3"
+        },
+        {
+          "title": "【素養動畫】【概念】空間中直線的位置關係",
+          "url": "https://www.junyiacademy.org/video/oH37kcuhmOs?parent-topic-id=j-m9a-c08-3"
+        }
+      ],
+      "exercises": [
+        {
+          "title": "【暖身】空間中兩平面的關係",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-12-1-1a?parent-topic-id=j-m9a-c08-3"
+        },
+        {
+          "title": "【基礎】空間中直線與平面的關係",
+          "url": "https://www.junyiacademy.org/exercise/jsc-9-12-1-2a?parent-topic-id=j-m9a-c08-3"
+        }
+      ]
+    }
+  ]
+}

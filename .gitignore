@@ -1,0 +1,19 @@
+node_modules
+dist
+dev-dist
+.env
+.env*.local
+.vercel
+
+.vercel
+.env*
+
+.next
+next-env.d.ts
+*.tsbuildinfo
+
+# 靜態輸出（GitHub Pages 版）
+out
+!.env.example
+.claude
+AGENTS.md

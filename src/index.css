@@ -1,0 +1,153 @@
+@custom-variant dark (&:where(.dark, .dark *));
+
+@import "tailwindcss";
+@import "katex/dist/katex.min.css";
+
+@layer base {
+  body {
+    font-family: "Plus Jakarta Sans", "Noto Sans TC", -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  code, pre, .font-mono {
+    font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  }
+}
+
+@media print {
+  body > *:not(#print-root) {
+    display: none !important;
+  }
+  #print-root {
+    display: block !important;
+  }
+}
+
+
+/* =========================================================
+   MathNavi Responsive Layout
+   手機 / 平板 / 筆電 / 桌機共用同一套介面
+   ========================================================= */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  min-width: 320px;
+  overflow-x: hidden;
+}
+
+.mathnavi-app {
+  min-height: 100dvh;
+}
+
+/* 觸控裝置：避免按鈕太小，並保留 iPhone 安全區 */
+@media (max-width: 1023px) {
+  .mathnavi-app button,
+  .mathnavi-app [role="button"] {
+    touch-action: manipulation;
+  }
+
+  .mathnavi-app header {
+    padding-top: max(0px, env(safe-area-inset-top));
+  }
+
+  .mathnavi-app footer {
+    padding-bottom: max(1.25rem, env(safe-area-inset-bottom));
+  }
+}
+
+/* 手機：內容改為單欄、卡片縮小留白、操作按鈕更容易點 */
+@media (max-width: 639px) {
+  .mathnavi-app main {
+    width: 100%;
+  }
+
+  .mathnavi-app section {
+    max-width: 100%;
+  }
+
+  .mathnavi-app input,
+  .mathnavi-app textarea,
+  .mathnavi-app select {
+    font-size: 16px; /* 避免 iOS Safari 聚焦輸入框時自動放大 */
+  }
+
+  .mathnavi-app [role="button"] {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* 相片預覽在窄螢幕不要撐破版面 */
+  .mathnavi-app img {
+    max-width: 100%;
+  }
+}
+
+/* 平板：保留較寬的閱讀空間，但解題區維持上下排列 */
+@media (min-width: 640px) and (max-width: 1023px) {
+  .mathnavi-app main {
+    max-width: 900px;
+  }
+}
+
+/* 桌機 / 筆電：維持左右雙欄工作區 */
+@media (min-width: 1024px) {
+  .mathnavi-app main {
+    max-width: 1280px;
+  }
+}
+
+
+/* 手機解題流程強化：避免流程圖與長文字造成橫向溢出 */
+@media (max-width: 639px) {
+  .mathnavi-app .overflow-x-auto {
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+  }
+
+  .mathnavi-app button {
+    min-height: 40px;
+  }
+
+  .mathnavi-app textarea {
+    line-height: 1.6;
+  }
+
+  .mathnavi-app .katex-display {
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0.25rem 0;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+@media (min-width: 640px) and (max-width: 1023px) {
+  .mathnavi-app button {
+    min-height: 40px;
+  }
+}
+
+/* =========================================================
+   Dark / Light mode – native CSS fallback
+   Ensures switching works regardless of Tailwind compilation
+   ========================================================= */
+
+/* Dark mode: .dark on <html> */
+html.dark .mathnavi-app {
+  background-color: #0B1220;
+  color: #f1f5f9;
+}
+html.dark .mathnavi-app header {
+  background-color: rgba(11, 18, 32, 0.95);
+}
+
+/* If OS is in dark mode but user has NOT enabled dark mode,
+   force light colors (overrides @media prefers-color-scheme:dark) */
+@media (prefers-color-scheme: dark) {
+  html:not(.dark) .mathnavi-app {
+    background-color: #F1F3F6 !important;
+    color: #111827 !important;
+  }
+  html:not(.dark) .mathnavi-app header {
+    background-color: rgba(241, 243, 246, 0.95) !important;
+  }
+}

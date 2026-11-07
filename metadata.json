@@ -1,0 +1,8 @@
+{
+  "name": "CodeFlow Refactor",
+  "description": "Clean up code, remove AI verification, and align features with the established project flowchart.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}

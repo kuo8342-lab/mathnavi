@@ -1,0 +1,13 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // 每個人只能讀寫自己的錯題本與學習輪廓
+    match /users/{uid}/{document=**} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+    // aiUsage（AI 使用次數）只有伺服器能存取，其餘一律拒絕
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
